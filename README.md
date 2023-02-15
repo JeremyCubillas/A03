@@ -53,7 +53,7 @@ Push- Allows commits made locally to be incorporated into remote branches you ch
 
 Pull- Opens up your changes in your repository to discuss with the public allowing you to benefit from them
 
-Remote- Storing of repository’s you can access, delete, or even create 
+Remote- Storing of repository’s you can access, delete, or even create
 
 Repository- Where your project lies and can be accessed by files
 
